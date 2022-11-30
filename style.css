@@ -187,6 +187,7 @@ body {
     opacity: 0.6;
 }
 .ability-name {
+    background-color: rgba(255, 255, 0, 0.05);
     text-align: center;
     padding: 0 0 10px 0;
 }
@@ -209,9 +210,10 @@ body {
     justify-content: flex-start;
     width: 100%;
     color: rgb(2, 2, 2);
+    background-color: rgba(255, 255, 0, 0.05);
     align-self: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 15px;
+    font-size: 14px;
     overflow-y: scroll;
     scroll-snap-type: y mandatory;
     gap: 10px;
